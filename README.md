@@ -1,4 +1,6 @@
-## Hi there 👋
+🌍 Romario Petric | Développeur Web en recherche d'alternance
+👨‍💻 Étudiant à Epitech | Passionné par le développement web
+🚀 À la recherche d'une alternance pour septembre 2025
 
 <!--
 **romariopetric/romariopetric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
